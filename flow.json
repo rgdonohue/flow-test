@@ -1,0 +1,104 @@
+{
+  "name": "flow",
+  "children": [
+    {
+      "name": "pathogen",
+      "children": [
+        {
+          "name": "Transmission intensity, spatial heterogeneity & projected temporal trends",
+          "children": [
+            {
+              "name": "target population",
+              "children": [
+                {
+                  "name": "risk target",
+                  "children": [
+                    {
+                      "name": "Target population should be chosen to maximize trial efficiency (power per sample size) by including individuals with high infection risk or with high projected infection risk. The breadth of the target population may need to be greater when infections are particularly rare or infection risk is difficult to predict (such that each person's a priori risk is very low). Appropriate trial simulators and simulated projections may help predict trial efficiency."
+                    }
+                  ]
+                },
+                {
+                  "name": "responsive",
+                  "children": [
+                    {
+                      "name": "Responsive methods require identifying certain groups at high risk in realtime."
+                    }
+                  ]
+                },
+                {
+                  "name": "criteria",
+                  "children": [
+                    {
+                      "name": "Spatial heterogeneity and speed of epidemic spread will impact geographic-based approaches."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "primary endpoint",
+              "children": [
+
+              ]
+            },
+            {
+              "name": "randomization",
+              "children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Morbidity and mortality (and demographic heterogeneity therein)",
+          "children": [
+            {
+
+            }
+          ]
+        },
+        {
+          "name": "Route of transmission & demographic heterogeneity in exposure",
+          "children": [
+            {
+
+            }
+          ]
+        },
+        {
+          "name": "Natural history",
+          "children": [
+            {
+
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "infranstructure",
+      "children": [
+        {
+
+        }
+      ]
+    },
+    {
+      "name": "vaccine",
+      "children": [
+        {
+
+        }
+      ]
+    },
+    {
+      "name": "sociocultural",
+      "children": [
+        {
+
+        }
+      ]
+    }
+  ]
+}
